@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="black">Black</string>
+    <string name="color">Select Color</string>
+    <string name="mode">Set Mode</string>
+    <string name="draw">Drawing</string>
+    <string name="delete">Deleting</string>
+    <string name="move">Moving</string>
+
+
+
+</resources>
